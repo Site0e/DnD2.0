@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1705836339 source:c:\users\stefano borghi\onedrive\desktop\esercizi\programma dnd\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1705868710 source:c:\users\stefano borghi\onedrive\desktop\programma dnd\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
